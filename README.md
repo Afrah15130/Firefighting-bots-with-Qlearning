@@ -1,6 +1,6 @@
 # Firefighting-bots-with-Qlearning  
 
- INTRODUCTION: 
+INTRODUCTION: 
  
 Firefighting Bots are autonomous robotic systems developed to detect and extinguish fires in hazardous or inaccessible areas. These bots play a crucial role in minimizing risks to human firefighters by navigating and acting independently in emergency situations.
 
@@ -11,11 +11,14 @@ By combining robotics with artificial intelligence, this project demonstrates ho
 REQUIREMENTS:
 
 1.pygame
+
 2.Pillow
+
 3.numpy
 
 ALGORITHMS USED:
 
 1.Q-Learning (Reinforcement Learning)
+
 2. A* Pathfinding
 

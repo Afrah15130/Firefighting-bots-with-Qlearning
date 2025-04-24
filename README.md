@@ -18,7 +18,6 @@ REQUIREMENTS:
 
 ALGORITHMS USED:
 
-1.Q-Learning (Reinforcement Learning)
-
+1.Q-Learning 
 2. A* Pathfinding
 
